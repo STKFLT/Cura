@@ -179,7 +179,8 @@ class PauseAtHeight(Script):
                         "Makerbot": "Makerbot",
                         "BFB": "Bits from Bytes",
                         "MACH3": "Mach3",
-                        "Repetier": "Repetier"
+                        "Repetier": "Repetier",
+                        "Flashforge": "Flashforge",
                     },
                     "default_value": "RepRap (Marlin/Sprinter)",
                     "enabled": false,
